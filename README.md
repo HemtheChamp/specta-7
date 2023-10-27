@@ -1,1 +1,2 @@
-# specta-7
+# spectagram-stage-6
+project solution for c86
